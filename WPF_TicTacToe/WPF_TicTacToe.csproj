@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Image\icons8-tic-tac-toe.ico" />
+    <None Remove="Image\tac_tic_toe_icon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Image\icons8-tic-tac-toe.ico" />
+  </ItemGroup>
+
+</Project>

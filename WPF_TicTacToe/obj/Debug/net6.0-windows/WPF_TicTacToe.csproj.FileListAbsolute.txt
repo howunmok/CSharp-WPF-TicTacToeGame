@@ -1,0 +1,41 @@
+C:\Users\benny\Desktop\COMP212 Programming 3\WPF_TicTacToe\WPF_TicTacToe\bin\Debug\net6.0-windows\WPF_TicTacToe.exe
+C:\Users\benny\Desktop\COMP212 Programming 3\WPF_TicTacToe\WPF_TicTacToe\bin\Debug\net6.0-windows\WPF_TicTacToe.deps.json
+C:\Users\benny\Desktop\COMP212 Programming 3\WPF_TicTacToe\WPF_TicTacToe\bin\Debug\net6.0-windows\WPF_TicTacToe.runtimeconfig.json
+C:\Users\benny\Desktop\COMP212 Programming 3\WPF_TicTacToe\WPF_TicTacToe\bin\Debug\net6.0-windows\WPF_TicTacToe.dll
+C:\Users\benny\Desktop\COMP212 Programming 3\WPF_TicTacToe\WPF_TicTacToe\bin\Debug\net6.0-windows\WPF_TicTacToe.pdb
+C:\Users\benny\Desktop\COMP212 Programming 3\WPF_TicTacToe\WPF_TicTacToe\obj\Debug\net6.0-windows\WPF_TicTacToe.csproj.AssemblyReference.cache
+C:\Users\benny\Desktop\COMP212 Programming 3\WPF_TicTacToe\WPF_TicTacToe\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\benny\Desktop\COMP212 Programming 3\WPF_TicTacToe\WPF_TicTacToe\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\benny\Desktop\COMP212 Programming 3\WPF_TicTacToe\WPF_TicTacToe\obj\Debug\net6.0-windows\WPF_TicTacToe_MarkupCompile.cache
+C:\Users\benny\Desktop\COMP212 Programming 3\WPF_TicTacToe\WPF_TicTacToe\obj\Debug\net6.0-windows\WPF_TicTacToe_MarkupCompile.lref
+C:\Users\benny\Desktop\COMP212 Programming 3\WPF_TicTacToe\WPF_TicTacToe\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\benny\Desktop\COMP212 Programming 3\WPF_TicTacToe\WPF_TicTacToe\obj\Debug\net6.0-windows\WPF_TicTacToe.g.resources
+C:\Users\benny\Desktop\COMP212 Programming 3\WPF_TicTacToe\WPF_TicTacToe\obj\Debug\net6.0-windows\WPF_TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benny\Desktop\COMP212 Programming 3\WPF_TicTacToe\WPF_TicTacToe\obj\Debug\net6.0-windows\WPF_TicTacToe.AssemblyInfoInputs.cache
+C:\Users\benny\Desktop\COMP212 Programming 3\WPF_TicTacToe\WPF_TicTacToe\obj\Debug\net6.0-windows\WPF_TicTacToe.AssemblyInfo.cs
+C:\Users\benny\Desktop\COMP212 Programming 3\WPF_TicTacToe\WPF_TicTacToe\obj\Debug\net6.0-windows\WPF_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\benny\Desktop\COMP212 Programming 3\WPF_TicTacToe\WPF_TicTacToe\obj\Debug\net6.0-windows\WPF_TicTacToe.dll
+C:\Users\benny\Desktop\COMP212 Programming 3\WPF_TicTacToe\WPF_TicTacToe\obj\Debug\net6.0-windows\refint\WPF_TicTacToe.dll
+C:\Users\benny\Desktop\COMP212 Programming 3\WPF_TicTacToe\WPF_TicTacToe\obj\Debug\net6.0-windows\WPF_TicTacToe.pdb
+C:\Users\benny\Desktop\COMP212 Programming 3\WPF_TicTacToe\WPF_TicTacToe\obj\Debug\net6.0-windows\WPF_TicTacToe.genruntimeconfig.cache
+C:\Users\benny\Desktop\COMP212 Programming 3\WPF_TicTacToe\WPF_TicTacToe\obj\Debug\net6.0-windows\ref\WPF_TicTacToe.dll
+C:\Users\benny\github projects\C#WPF_TicTacToeGame\WPF_TicTacToe\bin\Debug\net6.0-windows\WPF_TicTacToe.exe
+C:\Users\benny\github projects\C#WPF_TicTacToeGame\WPF_TicTacToe\bin\Debug\net6.0-windows\WPF_TicTacToe.deps.json
+C:\Users\benny\github projects\C#WPF_TicTacToeGame\WPF_TicTacToe\bin\Debug\net6.0-windows\WPF_TicTacToe.runtimeconfig.json
+C:\Users\benny\github projects\C#WPF_TicTacToeGame\WPF_TicTacToe\bin\Debug\net6.0-windows\WPF_TicTacToe.dll
+C:\Users\benny\github projects\C#WPF_TicTacToeGame\WPF_TicTacToe\bin\Debug\net6.0-windows\WPF_TicTacToe.pdb
+C:\Users\benny\github projects\C#WPF_TicTacToeGame\WPF_TicTacToe\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\benny\github projects\C#WPF_TicTacToeGame\WPF_TicTacToe\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\benny\github projects\C#WPF_TicTacToeGame\WPF_TicTacToe\obj\Debug\net6.0-windows\WPF_TicTacToe_MarkupCompile.cache
+C:\Users\benny\github projects\C#WPF_TicTacToeGame\WPF_TicTacToe\obj\Debug\net6.0-windows\WPF_TicTacToe_MarkupCompile.lref
+C:\Users\benny\github projects\C#WPF_TicTacToeGame\WPF_TicTacToe\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\benny\github projects\C#WPF_TicTacToeGame\WPF_TicTacToe\obj\Debug\net6.0-windows\WPF_TicTacToe.g.resources
+C:\Users\benny\github projects\C#WPF_TicTacToeGame\WPF_TicTacToe\obj\Debug\net6.0-windows\WPF_TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benny\github projects\C#WPF_TicTacToeGame\WPF_TicTacToe\obj\Debug\net6.0-windows\WPF_TicTacToe.AssemblyInfoInputs.cache
+C:\Users\benny\github projects\C#WPF_TicTacToeGame\WPF_TicTacToe\obj\Debug\net6.0-windows\WPF_TicTacToe.AssemblyInfo.cs
+C:\Users\benny\github projects\C#WPF_TicTacToeGame\WPF_TicTacToe\obj\Debug\net6.0-windows\WPF_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\benny\github projects\C#WPF_TicTacToeGame\WPF_TicTacToe\obj\Debug\net6.0-windows\WPF_TicTacToe.dll
+C:\Users\benny\github projects\C#WPF_TicTacToeGame\WPF_TicTacToe\obj\Debug\net6.0-windows\refint\WPF_TicTacToe.dll
+C:\Users\benny\github projects\C#WPF_TicTacToeGame\WPF_TicTacToe\obj\Debug\net6.0-windows\WPF_TicTacToe.pdb
+C:\Users\benny\github projects\C#WPF_TicTacToeGame\WPF_TicTacToe\obj\Debug\net6.0-windows\WPF_TicTacToe.genruntimeconfig.cache
+C:\Users\benny\github projects\C#WPF_TicTacToeGame\WPF_TicTacToe\obj\Debug\net6.0-windows\ref\WPF_TicTacToe.dll
